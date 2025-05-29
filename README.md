@@ -1,7 +1,7 @@
 # amazon-s3-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Amazon S3
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Amazon S3 (beta)](https://www.cdata.com/download/download.aspx?sku=SXZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Amazon S3 (beta)](https://www.cdata.com/download/download.aspx?sku=SXZK-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Amazon S3 supported by the [CData JDBC Driver for Amazon S3](https://www.cdata.com/drivers/amazons3/jdbc).
 
